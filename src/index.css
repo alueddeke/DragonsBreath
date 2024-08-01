@@ -1,0 +1,4 @@
+/* @import "my-frontend-lib/dist/style.css"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
